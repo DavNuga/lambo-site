@@ -1,0 +1,216 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.black{
+    display:flex;
+    background-color: black;
+    padding: 10px;
+    align-items: center;
+}
+.black a{
+    padding-left: 100px;
+    color: white;
+    text-decoration: none;
+
+}
+.black img{
+    padding-left: 45px;
+}
+.tert{
+    background-image: url(../img/fft.webp);
+    background-size: cover;
+    padding-top: 30px;
+}
+.zert{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.zert h1 {
+    font-size: 80px;
+    padding-top: 1px;
+    padding-left:30px;
+    color: white;
+}
+.zert h3{
+   font-size:40px ;
+   color: white;
+   padding-top: 340px;
+   padding-left: 30px;
+}
+.pert{
+    font-size: 30px;
+    border-radius: 30px;
+    color: black;
+    padding-left: 100px;
+    padding-top: 20px;
+
+
+}
+
+.pert button{
+    padding: 20px ;
+    border-radius: 30px;
+}
+.pert :hover{
+color: blue;
+background-color: grey;
+}
+.meng{
+background-image: url();
+text-align: center;
+
+}
+.meng{
+    background-image: url(../img/40k.jpg);
+    background-size: cover;
+}
+.meng h1{
+font-size: 40px;
+color: white;
+padding-top: 30px;
+
+}
+.meng h3{
+font-size: 70px;
+padding-top: 800px;
+color: white;
+
+}
+.shet{
+    background-image: url(../img/uheueh.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.shet h1{
+    padding-top: 300px;
+    padding-bottom: 300px;
+    font-size: 50px;
+    color:white;
+    text-align: center;
+
+}
+.asten{
+text-align: center;
+
+}
+.asten h1{
+font-size: 80px;
+padding-top: 10px;
+
+}
+.asten h3{
+font-size: 40px;
+padding-top:20px ;
+
+}
+.long{
+    padding-top: 20px;
+    padding-left: 320px;
+}
+.long h1{
+font-size: 20px;
+}
+.long h3{
+font-size: 30px;
+font-weight: lighter;
+}
+.drent{
+    padding-left: 320px;
+}
+.drent h1{
+    font-size: 40px;
+    padding-top: 20px;
+}
+.drent button{
+    padding: 10px 25px;
+}
+.rench h3{
+    padding-left: 320px;
+    padding-top:20px ;
+    font-weight: lighter;
+}
+.ginc{
+    display: flex;
+    padding-left: 380px;
+    padding-top: 40px;
+}
+.ginc img{
+    padding-right: 50px;
+}
+.ginc button{
+    padding:10px 25px;
+}
+.ginc h3{
+    padding-bottom: 50px;
+    font-weight: lighter;
+}
+.ginc h1{
+    padding-bottom: 87px;
+}
+.oinc{
+    display: flex;
+    padding-left: 380px;
+    padding-top: 40px;
+}
+.oinc img{
+    padding-right: 50px;
+}
+.oinc button{
+    padding:10px 25px;
+}
+.oinc h3{
+    padding-bottom: 50px;
+    font-weight: lighter;
+}
+.oinc h1{
+    padding-bottom: 87px;
+}
+.yinc{
+    display: flex;
+    padding-left: 380px;
+    padding-top: 40px;
+}
+.yinc img{
+    padding-right: 50px;
+}
+.yinc button{
+    padding:10px 25px;
+}
+.yinc h3{
+    padding-bottom: 50px;
+    font-weight: lighter;
+}
+.yinc h1{
+    padding-bottom: 87px;
+}
+
+.aston{
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+.aston button{
+    background-color: black;
+    color: white;
+    padding: 20px 90px;
+    
+}
+.frion{
+    background-color: black;
+    padding-top: 40px;
+    text-align: center;
+    color: white;
+}
+.frion a{
+text-decoration: none;
+color: white;
+padding-left: 80px;
+}
+
+.frion li{
+    padding: 70px;
+}
+.frion h4{
+    padding: 15px;
+}
